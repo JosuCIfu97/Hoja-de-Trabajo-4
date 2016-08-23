@@ -21,6 +21,7 @@ public class AStack<E> extends AbstractStack<E> {
    
     /**
      *
+     * 
      */
     protected ArrayList<E> datos;
     
